@@ -1,0 +1,407 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main_table2{
+    position: absolute;
+    background-color: rgb(231, 176, 75);
+    width:820px;
+    height: 2100px;
+}  
+.chickon{
+    margin-left:10%;
+    width: 350px;
+    margin-top: 60px;
+    position: absolute;
+}
+.red_box{
+    position: absolute;
+    background-color: rgb(200, 52, 52);
+    width: 400px;
+    height: 400px;
+    left: 49%;
+    margin-top: 90px;
+    border-bottom-left-radius   : 15%;
+    border-bottom-right-radius   : 15%;
+    border-top-left-radius   : 15%;
+    border-top-right-radius   : 15%;
+}
+.red_box i{
+    position: absolute;
+    top: 20px;
+    left: 28px;
+    margin-left: 3px;
+    margin-top: 300px;
+    font-size: 70px;
+    color: aliceblue;
+    font-size: 50px;
+}
+.content1{
+    font-size: 35px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 35px;
+    color: rgb(200, 52, 52);
+    font-family: "Rubik Mono One";
+}
+.sentient_chicken{
+    position: absolute;
+    width: 220px;
+    margin-left: 50px;
+    margin-top: 110px;
+}
+.content2{
+    font-size: 60px;
+    position: absolute;
+    margin-left: 15px;
+    margin-top: 1px;
+    color: rgb(254, 205, 16);
+    font-family: "Rubik Moonrocks";
+    text-align: center;
+    
+}
+.wide_box{
+    position: absolute;
+    background-color: rgb(200, 52, 52);
+    width: 250px;
+    height: 70px;
+    rotate: 8deg;
+    margin-left: 50px;
+    margin-top: 300px;
+}
+.side_content{
+    position: absolute;
+    background-color: rgb(254, 205, 16);
+    width: 200px;
+    height: 160px;
+    left: 70px;
+    margin-top: 100px;
+    border-bottom-left-radius   : 15%;
+    border-bottom-right-radius   : 15%;
+    border-top-left-radius   : 15%;
+    border-top-right-radius   : 15%;
+}
+
+  .header-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 30px;
+  }
+  .header-container img {
+    position: relative;
+    top: 20px;
+    left: 28px;
+    margin-right: 120px;
+  }
+.menu-icon {
+  width: 35px;
+}
+
+.user-icon {
+  width: 35px;
+  margin-left: -50px;
+}
+
+.cart-icon {
+  width: 45px;
+  margin-left: -50px;
+}
+
+
+
+
+.chickon2{
+    margin-left:5%;
+    width: 330px;
+    margin-top: 1px;
+    position: absolute;
+}
+.red_box2{
+    position: absolute;
+    background-color: rgb(200, 52, 52);
+    width: 400px;
+    height: 400px;
+    left: 5%;
+    margin-top: 550px;
+    border-bottom-left-radius   : 15%;
+    border-bottom-right-radius   : 15%;
+    border-top-left-radius   : 15%;
+    border-top-right-radius   : 15%;
+}
+.red_box2 i{
+    position: absolute;
+    top: 20px;
+    left: 28px;
+    margin-left: 300px;
+    margin-top: 300px;
+    font-size: 70px;
+    color: aliceblue;
+    font-size: 50px;
+}
+.content12{
+    font-size: 37px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 35px;
+    color: rgb(200, 52, 52);
+    font-family: "Rubik Mono One";
+}
+.sentient_chicken2{
+    position: absolute;
+    width: 220px;
+    margin-left: 30px;
+    margin-top: 100px;
+}
+.content22{
+    font-size: 60px;
+    position: absolute;
+    margin-left: 50px;
+    margin-top: 1px;
+    color: rgb(254, 205, 16);
+    font-family: "Rubik Moonrocks";
+    text-align: center;
+    
+}
+.wide_box2{
+    position: absolute;
+    background-color: rgb(200, 52, 52);
+    width: 250px;
+    height: 70px;
+    rotate: 8deg;
+    margin-left: 530px;
+    margin-top: 760px;
+}
+.side_content2{
+    position: absolute;
+    background-color: rgb(254, 205, 16);
+    width: 200px;
+    height: 160px;
+    left: 570px;
+    margin-top: 570px;
+    border-bottom-left-radius   : 15%;
+    border-bottom-right-radius   : 15%;
+    border-top-left-radius   : 15%;
+    border-top-right-radius   : 15%;
+}
+
+
+
+
+.chickon3{
+    margin-left:10%;
+    width: 350px;
+    margin-top: 60px;
+    position: absolute;
+}
+.red_box3{
+    position: absolute;
+    background-color: rgb(200, 52, 52);
+    width: 400px;
+    height: 400px;
+    left: 49%;
+    margin-top: 970px;
+    border-bottom-left-radius   : 15%;
+    border-bottom-right-radius   : 15%;
+    border-top-left-radius   : 15%;
+    border-top-right-radius   : 15%;
+}
+.red_box3 i{
+    position: absolute;
+    top: 20px;
+    left: 28px;
+    margin-left: 3px;
+    margin-top: 300px;
+    font-size: 70px;
+    color: aliceblue;
+    font-size: 50px;
+}
+.content13{
+    font-size: 35px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 35px;
+    color: rgb(200, 52, 52);
+    font-family: "Rubik Mono One";
+}
+.sentient_chicken3{
+    position: absolute;
+    width: 220px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+.content23{
+    font-size: 60px;
+    position: absolute;
+    margin-left: 45px;
+    margin-top: 1px;
+    color: rgb(254, 205, 16);
+    font-family: "Rubik Moonrocks";
+    text-align: center;
+    
+}
+.wide_box3{
+    position: absolute;
+    background-color: rgb(200, 52, 52);
+    width: 250px;
+    height: 70px;
+    rotate: 8deg;
+    margin-left: 50px;
+    margin-top: 1210px;
+}
+.side_content3{
+    position: absolute;
+    background-color: rgb(254, 205, 16);
+    width: 200px;
+    height: 160px;
+    left: 70px;
+    margin-top: 1020px;
+    border-bottom-left-radius   : 15%;
+    border-bottom-right-radius   : 15%;
+    border-top-left-radius   : 15%;
+    border-top-right-radius   : 15%;
+}
+
+
+
+
+
+
+.chickon4{
+    margin-left:10%;
+    width: 330px;
+    margin-top: 80px;
+    position: absolute;
+}
+.red_box4{
+    position: absolute;
+    background-color: rgb(200, 52, 52);
+    width: 400px;
+    height: 400px;
+    left: 5%;
+    margin-top: 1400px;
+    border-bottom-left-radius   : 15%;
+    border-bottom-right-radius   : 15%;
+    border-top-left-radius   : 15%;
+    border-top-right-radius   : 15%;
+}
+.red_box4 i{
+    position: absolute;
+    top: 20px;
+    left: 28px;
+    margin-left: 300px;
+    margin-top: 290px;
+    font-size: 70px;
+    color: aliceblue;
+    font-size: 50px;
+}
+.content14{
+    font-size: 37px;
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 35px;
+    color: rgb(200, 52, 52);
+    font-family: "Rubik Mono One";
+}
+.sentient_chicken4{
+    position: absolute;
+    width: 220px;
+    margin-left: 30px;
+    margin-top: 110px;
+}
+.content24{
+    font-size: 60px;
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 1px;
+    color: rgb(254, 205, 16);
+    font-family: "Rubik Moonrocks";
+    text-align: center;
+    
+}
+.wide_box4{
+    position: absolute;
+    background-color: rgb(200, 52, 52);
+    width: 250px;
+    height: 70px;
+    rotate: 8deg;
+    margin-left: 530px;
+    margin-top: 1630px;
+}
+.side_content4{
+    position: absolute;
+    background-color: rgb(254, 205, 16);
+    width: 200px;
+    height: 160px;
+    left: 570px;
+    margin-top: 1430px;
+    border-bottom-left-radius   : 15%;
+    border-bottom-right-radius   : 15%;
+    border-top-left-radius   : 15%;
+    border-top-right-radius   : 15%;
+}
+
+
+
+
+.gamaychicken2{
+    position: absolute;
+    width: 80px;
+    rotate: 345deg;
+    margin-top: 2000px;
+}
+
+.insta-icon2 {
+    position: absolute; 
+  width: 35px;
+  margin-left: 355px;
+  width: 50px;
+    height: 50px;
+    margin-top: 2000px;
+}
+
+.facebook-icon2 {
+    position: absolute;
+  width: 35px;
+  margin-left: 290px;
+  width: 50px;
+  height: 50px;
+  margin-top: 2000px;
+}
+
+.twitter-icon2 {
+    position: absolute;
+  width: 45px;
+  margin-left: 420px;
+  width: 50px;
+  height: 50px;
+  margin-top: 2000px;
+}
+
+.search{
+    position: absolute;
+    background-color: rgb(211, 146, 20);
+    width: 300px;
+    height: 50px;
+    left: 500px;
+    margin-top: 20px;
+    border-radius: 3cap;
+
+}
+.search i{
+    font-size: 20px;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 15px;
+    color: antiquewhite;
+}
+.search h2{
+    margin-left: 55px;
+    margin-top: 10px;
+    color: antiquewhite;
+}
+.footer-container2 hr{
+    position: relative;
+    bottom: -2000px;
+}
